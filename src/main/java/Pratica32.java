@@ -9,10 +9,11 @@
  * @author Victor
  */
 public class Pratica32 {
+    
+    private static double d;
 
     public static double densidade(double x, double media, double desvio) {
 
-        double d;
         double raiz;
         double elevado;
 

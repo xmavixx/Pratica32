@@ -8,6 +8,12 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Olá, Java!");
+        double d;
+        
+        Pratica32 densidade = new Pratica32();
+        
+        d = Pratica32.densidade(-1, 67, 3);
+        
+        System.out.println(d);
     }
 }
